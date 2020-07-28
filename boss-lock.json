@@ -1,0 +1,22 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2020-07-28T18:18:49.1492207-03:00",
+	"installedModules": {
+		"https://github.com/bittencourtthulio/simpleorm": {
+			"name": "simpleorm",
+			"version": "master",
+			"hash": "2cb5e0278dc708808c1f1f64ecd9c7e6",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"https://github.com/ezequieljuliano/datasetconverter4delphi": {
+			"name": "datasetconverter4delphi",
+			"version": "master",
+			"hash": "5d030308c84a928e3767ae9d9f8a317f",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
