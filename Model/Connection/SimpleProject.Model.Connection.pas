@@ -47,8 +47,8 @@ begin
     IndexConn := Pred(FConnList.Count);
     FConnList.Items[IndexConn].Params.DriverID := 'SQLite';
     FConnList.Items[IndexConn].Params.Database := '..\..\Database\SimpleProject.db3';
-    //FConnList.Items[IndexConn].Params.UserName := 'dbmasteruser';
-    //1FConnList.Items[IndexConn].Params.Password := 'IAao78msn8T&^<P0Ol+XiTI3+UlTi=+l';
+    //FConnList.Items[IndexConn].Params.UserName := 'user';
+    //1FConnList.Items[IndexConn].Params.Password := 'password';
     //FConnList.Items[IndexConn].Params.Add('Port=3306');
     //FConnList.Items[IndexConn].Params.Add('CharacterSet=utf8');
     //FConnList.Items[IndexConn].Params.Add('Server=xxx');
